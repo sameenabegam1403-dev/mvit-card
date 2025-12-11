@@ -1,0 +1,14 @@
+.card{
+    height: 650px;
+    width: 300px;
+    padding: 0;
+    border: 5px solid black;
+    text-align: center;
+    background-color: antiquewhite
+} 
+img{
+    height:100px;
+    width:100px;
+    border-radius: 50%;
+    text-align: center;
+}
